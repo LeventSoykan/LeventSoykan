@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeventSoykan
+- 👋 Hi, I’m Levent
 - 👀 I’m interested in data analytics & machine learning
 - 🌱 I’m currently learning Model Deployment & Containerization with Docker
 - 💞️ I’m looking to collaborate on projects that include data analysis and modelling
