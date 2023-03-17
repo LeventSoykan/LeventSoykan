@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Levent
 - 👀 I’m interested in data analytics & machine learning
-- 🌱 I’m currently learning Text Generation using Pytorch & Transformer Models
+- 🌱 I’m currently learning Data Engineering Pipelines / ETL Data Flow on Datacamp
 - 💞️ I’m looking to collaborate on projects that include data analysis and modelling
 - 📫 You can reach me via email : levent_soykan@yahoo.com
 
